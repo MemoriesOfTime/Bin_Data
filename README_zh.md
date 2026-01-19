@@ -27,5 +27,5 @@
 - **用途**：原版方块状态调色板（Vanilla Block State Palette）
 - **格式**：NBT 格式，包含所有原版方块及其状态的完整列表
 - **命名规则**：文件名中的数字对应特定协议版本号
-  - 例如：`vanilla_palette_671.nbt` 对应协议版本 671（Minecraft 1.21.70）
-  - 例如：`vanilla_palette_686.nbt` 对应协议版本 686（Minecraft 1.21.80）
+  - 例如：`vanilla_palette_671.nbt` 对应协议版本 671（Minecraft 1.20.80）
+  - 例如：`vanilla_palette_netease_686.nbt` 对应网易协议版本 686（Minecraft NetEase 1.21.2）

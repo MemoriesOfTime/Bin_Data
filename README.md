@@ -27,5 +27,5 @@ Missing or mismatched versions can cause custom blocks to render incorrectly, fa
 - **Purpose**: Vanilla Block State Palette
 - **Format**: NBT format containing complete list of all vanilla blocks and their states
 - **Naming Convention**: Numbers in filename correspond to specific protocol versions
-  - Example: `vanilla_palette_671.nbt` corresponds to protocol 671 (Minecraft 1.21.70)
-  - Example: `vanilla_palette_686.nbt` corresponds to protocol 686 (Minecraft 1.21.80)
+  - Example: `vanilla_palette_671.nbt` corresponds to protocol 671 (Minecraft 1.21.80)
+  - Example: `vanilla_palette_netease_686.nbt` corresponds to NetEase protocol 686 (Minecraft NetEase 1.21.2)
