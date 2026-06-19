@@ -1,0 +1,279 @@
+{
+  "generated_at": "2026-06-19T02:12:17Z",
+  "count": 39,
+  "palettes": [
+    {
+      "file": "vanilla_palette_419.nbt",
+      "protocol": 419,
+      "netease": false,
+      "size": 41608,
+      "sha256": "db04ce82ec313ddbd4611ea388a4ca4405802d7c08ff7ee73c9278e3989b355f"
+    },
+    {
+      "file": "vanilla_palette_428.nbt",
+      "protocol": 428,
+      "netease": false,
+      "size": 41444,
+      "sha256": "61eaa0324dc4717bc5dcaad05fd4c280b8662520cee248b8f70e784520da859f"
+    },
+    {
+      "file": "vanilla_palette_440.nbt",
+      "protocol": 440,
+      "netease": false,
+      "size": 49118,
+      "sha256": "056956834d36e4bc0125a2a89356562bfa9f850a796f04e378173df388dffdc4"
+    },
+    {
+      "file": "vanilla_palette_448.nbt",
+      "protocol": 448,
+      "netease": false,
+      "size": 50244,
+      "sha256": "0f90368938f2d53e92ba8bb7c48afb43bd7b86b43ac3c07ec4b7137ca3f74aa9"
+    },
+    {
+      "file": "vanilla_palette_465.nbt",
+      "protocol": 465,
+      "netease": false,
+      "size": 50826,
+      "sha256": "ede4b59b7a1dac0d9a4034445334861b1686bea722e42bc5012bb86c2ab82ba1"
+    },
+    {
+      "file": "vanilla_palette_471.nbt",
+      "protocol": 471,
+      "netease": false,
+      "size": 50901,
+      "sha256": "035456385ab1f74c19e1eb90038e775a03922a4e7970335bb92f16e3af570828"
+    },
+    {
+      "file": "vanilla_palette_486.nbt",
+      "protocol": 486,
+      "netease": false,
+      "size": 50848,
+      "sha256": "3c038dd593178d6560b7db326fb6e2e8cb1456e7cd88b6ae45bfc9939eaaa151"
+    },
+    {
+      "file": "vanilla_palette_503.nbt",
+      "protocol": 503,
+      "netease": false,
+      "size": 54963,
+      "sha256": "63e0cbf2d01443f14a8d91f4225a2b76681c5eb5c48981399fac8439da9dc4cc"
+    },
+    {
+      "file": "vanilla_palette_527.nbt",
+      "protocol": 527,
+      "netease": false,
+      "size": 55624,
+      "sha256": "0a91c89d81d00cc67f692d3b45f2658bd4f1ab30d450e68b578423cd554de7c2"
+    },
+    {
+      "file": "vanilla_palette_544.nbt",
+      "protocol": 544,
+      "netease": false,
+      "size": 55731,
+      "sha256": "d37448a274ba685e6dd53868ea9f7f6a78accc9369f2d6b7d4c1b520b7a89680"
+    },
+    {
+      "file": "vanilla_palette_560.nbt",
+      "protocol": 560,
+      "netease": false,
+      "size": 76293,
+      "sha256": "58b86fbe14b8112f9f7ad2ba3afb89e272b3adf38f404540a628f0c8a2f22661"
+    },
+    {
+      "file": "vanilla_palette_567.nbt",
+      "protocol": 567,
+      "netease": false,
+      "size": 76266,
+      "sha256": "a3244926c629ab9518aa9a059e48114fdd82445568001fb10bb40f111e6a6333"
+    },
+    {
+      "file": "vanilla_palette_575.nbt",
+      "protocol": 575,
+      "netease": false,
+      "size": 76545,
+      "sha256": "172b81c3daa88420e2a916461391ea444e23979f0b8a695b962ac639dcdfdb5d"
+    },
+    {
+      "file": "vanilla_palette_582.nbt",
+      "protocol": 582,
+      "netease": false,
+      "size": 79659,
+      "sha256": "af4af228a87c7fe4613c3cda9a5bccbed4f503acbbf670e773dd48ec60040e9f"
+    },
+    {
+      "file": "vanilla_palette_589.nbt",
+      "protocol": 589,
+      "netease": false,
+      "size": 79874,
+      "sha256": "f69b446a17cc82c3c1ec1fbdce9bec81aa1881c3180ab2f00ebd33f6beab19d1"
+    },
+    {
+      "file": "vanilla_palette_594.nbt",
+      "protocol": 594,
+      "netease": false,
+      "size": 80153,
+      "sha256": "517f96529e0415bc950a85db34faa65c27ac800ab8349447bbd286204fd8ef3a"
+    },
+    {
+      "file": "vanilla_palette_618.nbt",
+      "protocol": 618,
+      "netease": false,
+      "size": 81192,
+      "sha256": "99694bc883689c7269288fa0731f4476361ce8a3d4a1ce33c77a4aa89b89369c"
+    },
+    {
+      "file": "vanilla_palette_622.nbt",
+      "protocol": 622,
+      "netease": false,
+      "size": 81103,
+      "sha256": "41c751cbb856d76971bab8b2bfb4ab1d56c2fea37c3208898abb4063087a46b6"
+    },
+    {
+      "file": "vanilla_palette_630.nbt",
+      "protocol": 630,
+      "netease": false,
+      "size": 89165,
+      "sha256": "7d772973af77921b4bd55b473251ac502fccd572693e0889b03862263ced0617"
+    },
+    {
+      "file": "vanilla_palette_649.nbt",
+      "protocol": 649,
+      "netease": false,
+      "size": 89350,
+      "sha256": "a701b59332c0d070f3debaa95db3fe25c1e24aceec8e8c20a0062c88fecf9f79"
+    },
+    {
+      "file": "vanilla_palette_662.nbt",
+      "protocol": 662,
+      "netease": false,
+      "size": 89807,
+      "sha256": "8ecebed3e2af85696dc4e795e329c2614eaf690bb484705a55bf03e478a047d7"
+    },
+    {
+      "file": "vanilla_palette_671.nbt",
+      "protocol": 671,
+      "netease": false,
+      "size": 89891,
+      "sha256": "c9da24b2a327a1f4221b1487e0b129d955925eee2057a68992bf485ba6bf0862"
+    },
+    {
+      "file": "vanilla_palette_685.nbt",
+      "protocol": 685,
+      "netease": false,
+      "size": 89991,
+      "sha256": "f545e3848462625c0a4bdad5fee7cbd13cd058406ecd11885c14563db85fc80e"
+    },
+    {
+      "file": "vanilla_palette_712.nbt",
+      "protocol": 712,
+      "netease": false,
+      "size": 90373,
+      "sha256": "69012e4fd17bb265218f7b5b3ca055f4c49a6e01af772b48f92733d20b46562a"
+    },
+    {
+      "file": "vanilla_palette_729.nbt",
+      "protocol": 729,
+      "netease": false,
+      "size": 94668,
+      "sha256": "9b7ccd06417620c810f8ba368268644d39519258f923eac763f0f775c96ee140"
+    },
+    {
+      "file": "vanilla_palette_748.nbt",
+      "protocol": 748,
+      "netease": false,
+      "size": 95081,
+      "sha256": "75ad40c5286762a3c97e839bb4b2dcce0513a1bd6a2aa19544907c4712975b7e"
+    },
+    {
+      "file": "vanilla_palette_766.nbt",
+      "protocol": 766,
+      "netease": false,
+      "size": 101325,
+      "sha256": "0818a836d79e0ac6d2f649372aca0d5c2a4d67f1850d300ce567d8b209c7ebda"
+    },
+    {
+      "file": "vanilla_palette_776.nbt",
+      "protocol": 776,
+      "netease": false,
+      "size": 102017,
+      "sha256": "295ab55585159128614fa7806647cd991eb89b7fd269bb803162e6e483954fad"
+    },
+    {
+      "file": "vanilla_palette_786.nbt",
+      "protocol": 786,
+      "netease": false,
+      "size": 102451,
+      "sha256": "2c614ea5dac91158b83417a905c8013f6d2a2d69e847b2d98087f477f7b3bf7e"
+    },
+    {
+      "file": "vanilla_palette_800.nbt",
+      "protocol": 800,
+      "netease": false,
+      "size": 102477,
+      "sha256": "89e7867917cbf35c35a6d1a5bc863a2151614dda24da3d8ac1eb148d1aed8dfe"
+    },
+    {
+      "file": "vanilla_palette_818.nbt",
+      "protocol": 818,
+      "netease": false,
+      "size": 102477,
+      "sha256": "89e7867917cbf35c35a6d1a5bc863a2151614dda24da3d8ac1eb148d1aed8dfe"
+    },
+    {
+      "file": "vanilla_palette_827.nbt",
+      "protocol": 827,
+      "netease": false,
+      "size": 103039,
+      "sha256": "c87166359241f765c1d2fd82220e5e473bcd0be61436137d597e0dce1ee1e70c"
+    },
+    {
+      "file": "vanilla_palette_844.nbt",
+      "protocol": 844,
+      "netease": false,
+      "size": 107130,
+      "sha256": "5e4a356cb23e11d8256443ed67e89b9310f70356b9b91dc902b3bc06b21e8428"
+    },
+    {
+      "file": "vanilla_palette_944.nbt",
+      "protocol": 944,
+      "netease": false,
+      "size": 107205,
+      "sha256": "8c724ddc1be9524cbdb76798f6e516ae1cb8d447a54688072b57eccfa3f4013d"
+    },
+    {
+      "file": "vanilla_palette_975.nbt",
+      "protocol": 975,
+      "netease": false,
+      "size": 115486,
+      "sha256": "57ca07059fd81f839a146961eabf54c8344b4ec11c80052661872d52c8ec0431"
+    },
+    {
+      "file": "vanilla_palette_1001.nbt",
+      "protocol": 1001,
+      "netease": false,
+      "size": 115731,
+      "sha256": "60265320b3b12ee6a80c75fa885c0a0a9007815b0085e96a3a8f4fb81d2ccf32"
+    },
+    {
+      "file": "vanilla_palette_netease_686.nbt",
+      "protocol": 686,
+      "netease": true,
+      "size": 90066,
+      "sha256": "f3fbbe2661698a24d1a0834f5ff51ac47b255c876100aa4056f6a2a4f5c833d8"
+    },
+    {
+      "file": "vanilla_palette_netease_766.nbt",
+      "protocol": 766,
+      "netease": true,
+      "size": 101290,
+      "sha256": "9acf522e36763ee70870db1f2ee07633caaa6c63b97ecdfba2560699de98fba4"
+    },
+    {
+      "file": "vanilla_palette_netease_819.nbt",
+      "protocol": 819,
+      "netease": true,
+      "size": 102405,
+      "sha256": "5e1ae2b616b89f06887d863c6299cb6a74665a908ef76c27624d4d490a589f95"
+    }
+  ]
+}
