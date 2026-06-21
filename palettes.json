@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-06-19T02:12:17Z",
+  "generated_at": "2026-06-21T03:01:22Z",
   "count": 39,
+  "zip": {
+    "file": "palettes.zip",
+    "size": 2711872,
+    "sha256": "1c97376e448916c1d1fa5b8ae85a177aeb7d833cf9b2e4d88177a68bc8c59c5c",
+    "file_count": 39
+  },
   "palettes": [
     {
       "file": "vanilla_palette_419.nbt",

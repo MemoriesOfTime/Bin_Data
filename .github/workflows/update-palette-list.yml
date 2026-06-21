@@ -6,6 +6,7 @@ on:
     paths:
       - "vanilla_palette_*.nbt"
       - "scripts/generate_palette_list.py"
+      - "scripts/package_palettes.py"
       - ".github/workflows/update-palette-list.yml"
   workflow_dispatch:
 
@@ -27,14 +28,17 @@ jobs:
       - name: Generate palettes.json
         run: python scripts/generate_palette_list.py
 
+      - name: Package palettes.zip
+        run: python scripts/package_palettes.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add palettes.json
+          git add palettes.json palettes.zip
           if git diff --cached --quiet; then
-            echo "palettes.json is up to date, nothing to commit."
+            echo "palettes.json and palettes.zip are up to date, nothing to commit."
           else
-            git commit -m "chore: auto-update palettes.json"
+            git commit -m "chore: auto-update palettes.json and palettes.zip"
             git push
           fi
