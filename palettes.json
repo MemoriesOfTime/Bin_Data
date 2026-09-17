@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T12:31:46Z",
-  "count": 41,
+  "generated_at": "2026-09-17T13:06:38Z",
+  "count": 42,
   "zip": {
     "file": "palettes.zip",
-    "size": 2875328,
-    "sha256": "b17edff9a6b8f3ccfef4ddafc3a06924d05133297191c011ec858c91e45274fe",
-    "file_count": 41
+    "size": 3007293,
+    "sha256": "a5aff4bed4129d0410a323da6b9914ea5c0fd2bf05ff0c781333416ceadeaf63",
+    "file_count": 42
   },
   "palettes": [
     {
@@ -266,6 +266,13 @@
       "netease": false,
       "size": 119035,
       "sha256": "8ca049cfc08792a160d5f2cec49ee58e45813ab7fdb301b7a62f9577646c6b1f"
+    },
+    {
+      "file": "vanilla_palette_2193.nbt",
+      "protocol": 2193,
+      "netease": false,
+      "size": 150934,
+      "sha256": "98266902610c1467b608313098a0d00a9a9225a412910a1afef86a04a9f2b5ae"
     },
     {
       "file": "vanilla_palette_netease_686.nbt",
